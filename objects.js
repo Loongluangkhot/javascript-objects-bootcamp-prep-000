@@ -10,6 +10,6 @@ function removeFromPlaylist(playlist,artist) {
   return playlist
 }
 
-updatePlaylist(playlist,'Coldplay','Yellow')
+console.log(updatePlaylist(playlist,'Coldplay','Yellow'))
 
-removeFromPlaylist(playlist,'Maroon 5')
+console.log(removeFromPlaylist(playlist,'Maroon 5'))
