@@ -12,4 +12,4 @@ function removeFromPlaylist(playlist,artist) {
 
 updatePlaylist(playlist,'Coldplay','Yellow')
 
-removePlaylist(playlist,'Maroon 5')
+removeFromPlaylist(playlist,'Maroon 5')
